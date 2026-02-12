@@ -10,7 +10,7 @@
 
 No backend. No accounts. No sync.
 Just notes sitting in your browser like they should.</p>
-        <a href="https://github.com/VaheeMand/NoteDo">Read more</a>
+        <a href="https://github.com/oxqux/NoteDo">Read more</a>
      </div>
    </div>
    <div class="projectCard">
@@ -19,11 +19,11 @@ Just notes sitting in your browser like they should.</p>
        <h3>Calculator</h3>
        <p>A lightweight, extensible calculator built with pure <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.
 It supports a plugin system for customization and new functionality, includes light and dark themes, and runs entirely in the browser without external frameworks.</p>
-       <a href="https://github.com/VaheeMand/Calculator">Read more</a>
+       <a href="https://github.com/oxqux/Calculator">Read more</a>
      </div>
    </div>
  </div>
- <a href="https://github.com/VaheeMand" target="_blank" rel="noopener"><button>GitHub repository</button></a>
+ <a href="https://github.com/oxqux" target="_blank" rel="noopener"><button>GitHub repository</button></a>
 </section>
 
 <style>

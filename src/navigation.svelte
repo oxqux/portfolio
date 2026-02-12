@@ -13,7 +13,7 @@
 </script>
 
 <nav>
-  <h3><span style="color: var(--secondary)">Vahee</span><span style="color: var(--fg)">Mand</span></h3>
+  <h3><span style="color: var(--secondary)">Ox</span><span style="color: var(--fg)">Qux</span></h3>
 
   <div class="links">
     <a href="#about">About</a>

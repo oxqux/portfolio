@@ -2,28 +2,49 @@
   <h2>Portfolio</h2>
   <div class="projects">
     <div class="projectCard">
-      <img src="./portfolio/notedo.png">
+      <img src="./portfolio/calculator.png" />
+      <div>
+        <h3>Calculator</h3>
+        <p>
+          A lightweight, extensible calculator built with pure <b>HTML</b>,
+          <b>CSS</b>, and <b>JavaScript</b>. It supports a plugin system for
+          customization and new functionality, includes light and dark themes,
+          and runs entirely in the browser without external frameworks.
+        </p>
+        <a href="https://github.com/oxqux/Calculator">Read more</a>
+      </div>
+    </div>
+
+    <div class="projectCard">
+      <img src="./portfolio/notedo.png" />
       <div>
         <h3>NoteDo</h3>
-        <p>A simple note-taking app built with <b>React</b> and <b>React Router</b>.
-          Create notes, edit them in <b>Markdown</b>, rename, delete and manage everything locally.
-
-No backend. No accounts. No sync.
-Just notes sitting in your browser like they should.</p>
+        <p>
+          A simple note-taking app built with <b>React</b> and
+          <b>React Router</b>. Create notes, edit them in <b>Markdown</b>,
+          rename, delete and manage everything locally. No backend. No accounts.
+          No sync. Just notes sitting in your browser like they should.
+        </p>
         <a href="https://github.com/oxqux/NoteDo">Read more</a>
-     </div>
-   </div>
-   <div class="projectCard">
-     <img src="./portfolio/calculator.png">
-     <div>
-       <h3>Calculator</h3>
-       <p>A lightweight, extensible calculator built with pure <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.
-It supports a plugin system for customization and new functionality, includes light and dark themes, and runs entirely in the browser without external frameworks.</p>
-       <a href="https://github.com/oxqux/Calculator">Read more</a>
-     </div>
-   </div>
- </div>
- <a href="https://github.com/oxqux" target="_blank" rel="noopener"><button>GitHub repository</button></a>
+      </div>
+    </div>
+
+    <div class="projectCard">
+      <img src="./portfolio/quotedrip.png" />
+      <div>
+        <h3>QuoteDrip</h3>
+        <p>
+          <b>QuoteDrip</b> is a sleek, modern random quote generator built with a
+          focus on minimalist design and a seamless user experience. Designed to inspire,
+          it fetches curated quotes from around the world in their original languages.
+        </p>
+        <a href="https://github.com/oxqux/QuoteDrip">Read more</a>
+      </div>
+    </div>
+  </div>
+  <a href="https://github.com/oxqux" target="_blank" rel="noopener"
+    ><button>GitHub repository</button></a
+  >
 </section>
 
 <style>
@@ -74,4 +95,4 @@ It supports a plugin system for customization and new functionality, includes li
       margin-left: 1.5rem;
     }
   }
-  </style>
+</style>

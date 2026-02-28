@@ -36,7 +36,6 @@ section {
 
 body {
   margin: 0;
-  display: flex;
 }
 
 h1 {
@@ -44,12 +43,7 @@ h1 {
   line-height: 1.1;
 }
 
-.card {
-  padding: 2em;
-}
-
 #app {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
@@ -69,4 +63,9 @@ button {
 }
 button:hover {
   background-color: var(--secondary);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }

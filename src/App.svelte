@@ -21,8 +21,8 @@
 
 <style>
   .indention {
-    padding: 15%;
-    height: 15%;
+    padding: 5%;
+    height: 20%;
   }
   @media (min-width: 768px) {
     .indention {

@@ -49,11 +49,11 @@
 
 <style>
   .contacts {
-    display: flex;
+    gap: 1rem;
+    display: grid;
+    max-width: 100%;
     justify-content: center;
-  }
-  .contact {
-    margin: 3rem;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   }
 
   img {

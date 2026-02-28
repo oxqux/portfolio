@@ -39,20 +39,15 @@
 <style>
   .experiences {
     display: grid;
-    grid-template-columns: repeat(2, auto);
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
     justify-content: center;
-  }
-  .exp {
-    margin: 3rem;
+    max-width: 100%;
+    gap: 1rem;
   }
   img {
     height: 3rem;
+    max-width: 100%;
     filter: invert(1);
     padding: 0;
-  }
-  @media (min-width: 768px) {
-    .experiences {
-      grid-template-columns: repeat(4, auto);
-    }
   }
 </style>
